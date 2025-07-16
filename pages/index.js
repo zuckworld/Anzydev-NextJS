@@ -431,15 +431,15 @@ export default function Home() {
           <h2 className="text-md py-6 px-4 text-teal-600 font-semibold text-center md:text-xl max-w-4xl">
             📫 Contact Me
           </h2>
-          <a href="mailto:caleb1475@gmail.com">📧 Email: caleb1475@gmail.com</a>
+          <a href="mailto:caleb1475@gmail.com" className="text-center">📧 Email: caleb1475@gmail.com</a>
           <br />
-          <a href="https://www.linkedin.com/in/anderson-caleb-06a58a314">
+          <a href="https://www.linkedin.com/in/anderson-caleb-06a58a314" className="text-center">
             🧑‍💼 LinkedIn: Anderson Caleb
           </a>
           <br />
-          <a href="https://github.com/zuckworld">🧑‍💻 GitHub: zuckworld</a>
+          <a href="https://github.com/zuckworld" className="text-center">🧑‍💻 GitHub: zuckworld</a>
           <br />
-          <a href="https://anzydev.vercel.app/">
+          <a href="https://anzydev.vercel.app/" className="text-center">
             🌍 Portfolio: anzydev.vercel.app
           </a>
           <h2 className="text-md py-6 px-4 text-teal-600 font-semibold text-center md:text-xl max-w-4xl">
