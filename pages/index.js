@@ -432,10 +432,13 @@ export default function Home() {
             📫 Contact Me
           </h2>
           <a href="mailto:caleb1475@gmail.com">📧 Email: caleb1475@gmail.com</a>
+          <br />
           <a href="https://www.linkedin.com/in/anderson-caleb-06a58a314">
             🧑‍💼 LinkedIn: Anderson Caleb
           </a>
+          <br />
           <a href="https://github.com/zuckworld">🧑‍💻 GitHub: zuckworld</a>
+          <br />
           <a href="https://anzydev.vercel.app/">
             🌍 Portfolio: anzydev.vercel.app
           </a>
