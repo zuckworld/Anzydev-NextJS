@@ -169,6 +169,8 @@ export default function Home() {
                 Building MVPs and admin dashboards
               </p>
             </div>
+          </div>
+          <div className="lg:flex justify-center gap-10">
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white">
               <div className="flex justify-center">
                 <Image src={desktop} width={100} height={100} />
